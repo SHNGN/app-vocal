@@ -1,0 +1,14 @@
+{
+  "name": "App Vocale",
+  "short_name": "Vocale",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "App PWA avec reconnaissance vocale",
+  "icons": [{
+    "src": "icon-192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }]
+}
